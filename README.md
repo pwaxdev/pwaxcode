@@ -11,12 +11,12 @@ For **live demo** and **documentation**, visit [pwax.dev](https://pwax.dev)
 
 ## Features
 
-- 🔹 Syntax highlighting for **JS, JSON, HTML, CSS, SQL, PHP** (extensible with plugins)
-- 🔹 Line numbers, folding, ruler, auto-indent
-- 🔹 Typing simulation and step-by-step **code player**
-- 🔹 Copy, download, fullscreen, floatbar, toolbar
-- 🔹 Multiple themes: `dark`, `light`, `funky`, `relax`
-- 🔹 i18n support (English, Italian, extendable)
+- Syntax highlighting for **JS, JSON, HTML, CSS, SQL, PHP** (extensible with plugins)
+- Line numbers, folding, ruler, auto-indent
+- Typing simulation and step-by-step **code player**
+- Copy, download, fullscreen, floatbar, toolbar
+- Multiple themes: `dark`, `light`, `funky`, `relax`
+- i18n support (English, Italian, extendable)
 
 ---
 
@@ -33,3 +33,4 @@ For **live demo** and **documentation**, visit [pwax.dev](https://pwax.dev)
 <script>
   PWAxcode.autoInit();
 </script>
+
